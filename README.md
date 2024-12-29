@@ -1,6 +1,8 @@
 # Nikki_Photo (English/Japanese/Chinese Supported)
 インフィニットニキの写真を整理するソフトです。
+
 For Infinity Nikki organizing photo software
+
 本軟件給無限暖暖遊戲整理照片
 
 ## インストール Install 安裝 
