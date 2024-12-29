@@ -7,23 +7,31 @@ For Infinity Nikki organizing photo software
 
 ## インストール Install 安裝 
 最新バージョンのNikki_Photo_verX.X.zipをダウンロードします。
+
 Download the newest version Nikki_Photo_verX.X.zip
+
 下載最新 Nikki_Photo_verX.X.zip 版本
 
 ## 実行 Run 使用
 ZIPファイルを展開してできたフォルダ内のNikki_Photo.exeを実行します。
+
 Unzip the file and run the Nikki_Photo.exe
+
 展開 zip 檔並點擊 Nikki_Photo.exe 使用
 
 ## ライセンス License 授權條款
 このソースコードはMITライセンスの元ライセンスされています。
 注: このソフトウェアは異なるライセンスのパッケージに依存しています。
+
 The source code under MIT License. Each package have own differnt license.
+
 本軟件根據MIT授權條款,每個插件有自己的授權條款.
 
 ## 依存関係 Relation 插件關係
 このソースコードは以下のオープンソースソフトウェアを利用しています。
+
 The source code have this plugin.
+
 本軟件使用以下插件
 - PIL
 - tkinter
