@@ -42,7 +42,7 @@ if os.path.exists('nikki_setting.ini') == True:
               "Setting Window",'Close', 'Update', 'Language:', 'Backup Path:',
               "Finish", "Please restart the program.", "Error", "Please input correct path.",
               "Select Photo Move To Backup Folder", "Delete Selected Photo", "Please setup backup directory."]
-    text_b = ["インフィニットニキ写真整理", "バックアップ先フォルダ: ","高画質写真フォルダ: ",'設定',
+    text_b = ["インフィニティニキ写真整理", "バックアップ先フォルダ: ","高画質写真フォルダ: ",'設定',
               "プログラムの設定",'閉める', '更新', '　言語', '　バックアップ先\nフォルダ:',
               "設定完成", "プログラムを再起動してください.", "エラー発生", "正しいフォルダ名を入力してください.",
               "選択した写真をバックアップフォルダに移動する", "選択した写真を削除する",
