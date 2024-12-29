@@ -19,7 +19,7 @@ Unzip the file and run the Nikki_Photo.exe
 The source code under MIT License. Each package have own differnt license.
 本軟件根據MIT授權條款,每個插件有自己的授權條款.
 
-## 依存関係 Relation 插年關係
+## 依存関係 Relation 插件關係
 このソースコードは以下のオープンソースソフトウェアを利用しています。
 The source code have this plugin.
 本軟件使用以下插件
