@@ -1,7 +1,7 @@
 ![Model](https://github.com/Yucie/Nikki_Photo/blob/main/main_example.png?raw=true)
 
 # Nikki_Photo (English/Japanese/Chinese Supported)
-インフィニットニキの写真を整理するソフトです。
+インフィニティニキの写真を整理するソフトです。
 
 For Infinity Nikki organizing photo software
 
